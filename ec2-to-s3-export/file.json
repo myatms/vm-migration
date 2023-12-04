@@ -1,0 +1,6 @@
+{
+"ContainerFormat": "ova",
+"DiskImageFormat": "VMDK",
+"S3Bucket": "export-bucket-2021",
+"S3Prefix": "vms/"
+}
